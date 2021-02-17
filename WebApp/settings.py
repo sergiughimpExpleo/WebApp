@@ -26,7 +26,7 @@ SECRET_KEY = 'v@y-iwfh2&e$4-@9tz##2jsl_e)-@5@dn3_6)js$nmbiotb%1('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
